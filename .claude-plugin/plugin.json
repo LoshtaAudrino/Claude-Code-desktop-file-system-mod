@@ -1,0 +1,1 @@
+{ "name": "commander", "version": "0.1.0", "description": "Norton Commander style two-pane file browser: click folders to enter, click files to reveal in Explorer.", "types": "./types/index.d.ts" }
