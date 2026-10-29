@@ -15,3 +15,7 @@ Put the folder in your Claude Code mods folder or load it with `claude --plugin-
 ## Notes
 
 Revealing a file uses the app's `reveal_path` tool, which asks for approval on Windows each time. Tested only on Claude Code Desktop for Windows.
+
+## License
+
+CC0 1.0. Use, modify, share. No attribution needed.
