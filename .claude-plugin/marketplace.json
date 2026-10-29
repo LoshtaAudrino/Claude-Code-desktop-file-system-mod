@@ -1,0 +1,11 @@
+{
+  "name": "commander-mod",
+  "owner": { "name": "LoshtaAudrino" },
+  "plugins": [
+    {
+      "name": "commander",
+      "source": "./",
+      "description": "Norton Commander style file tree pane for Claude Code Desktop."
+    }
+  ]
+}
